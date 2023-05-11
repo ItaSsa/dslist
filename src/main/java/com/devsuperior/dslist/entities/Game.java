@@ -81,11 +81,11 @@ public class Game {
 		this.genre = genre;
 	}
 
-	public String getPlatform() {
+	public String getPlatforms() {
 		return platforms;
 	}
 
-	public void setPlatform(String platform) {
+	public void setPlatforms(String platform) {
 		this.platforms = platform;
 	}
 
